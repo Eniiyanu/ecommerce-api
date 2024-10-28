@@ -28,6 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
+AUTH_USER_MODEL = 'accounts.User'  # to avoid conflict with the default
+
 # Application definition
 
 INSTALLED_APPS = [

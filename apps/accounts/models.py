@@ -51,9 +51,7 @@ class Address(models.Model):
         ('YO', 'Yobe'),
         ('ZA', 'Zamfara'),
     ]
-    
-    state = models.CharField(max_length=2, choices=STATES)
-   
+       
     user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='addresses')
     street_address = models.CharField(max_length=255)
     city = models.CharField(max_length=100)
