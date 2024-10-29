@@ -231,14 +231,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- Your Name - Initial work - [Eniiyanu](https://github.com/Eniiyanu)
+- Oladepo Oluwaferanmi - Initial work - [Eniiyanu](https://github.com/Eniiyanu)
 
-## 🙏 Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📞 Support
 
-For support, email your-email@example.com or join our Slack channel.
+For support, email depopf89@gmail.com
